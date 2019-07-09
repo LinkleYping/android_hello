@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="tv_test1">hello, ep</string>
+    <string name="title_activity_edit_view">EditViewActivity</string>
+</resources>
